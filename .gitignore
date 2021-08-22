@@ -1,0 +1,4 @@
+venv\
+Human_tracking\backup\movenet_model
+Fire_tracking\SSD-fire_detection-jetson_nano\fire\model_last.pth
+Fire_tracking\yolov4-fire-detection\backup\yolov4-tiny-custom_best.weights

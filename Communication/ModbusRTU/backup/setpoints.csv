@@ -1,0 +1,9 @@
+name,address,type,value
+m1,1,coil,1
+m2,2,coil,0
+m3,3,coil,1
+m4,4,coil,0
+m5,5,coil,1
+m6,6,coil,1
+m7,10,coil,1
+
